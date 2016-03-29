@@ -1,8 +1,4 @@
 # hello_world
 just to say hello to the world
 
-#include <stdio.h>
-
-int main() {
-        printf("hello world") ;
-}
+This is my first time to use Github , so great!
